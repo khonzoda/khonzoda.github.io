@@ -8,7 +8,7 @@ profile:
   align: left
   image: website_picture.jpeg
   image_circular: false # crops the image to make it circular
-  address: > 
+  address: >
         <p> ku forty-seven [at] cornell [dot] edu, replacing "forty-seven" with numbers </p>
 
 
