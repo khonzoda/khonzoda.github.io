@@ -8,10 +8,9 @@ profile:
   align: left
   image: website_picture.jpeg
   image_circular: false # crops the image to make it circular
-  address: > <p>ku forty-seven [at] cornell [dot] edu, replacing "forty-seven" with numbers </p>
-<!--     <p>555 your office number</p> -->
-<!--     <p>123 your address street</p> -->
-<!--     <p>Your City, State 12345</p> -->
+  address: > 
+        <p> ku forty-seven [at] cornell [dot] edu, replacing "forty-seven" with numbers </p>
+
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
