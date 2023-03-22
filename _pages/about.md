@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hello! I am a third-year Computer Science PhD student at [Cornell University](https://www.cs.cornell.edu/) advised by Prof. [Lillian Lee](). My research interests are at the intersection of NLP and Social Computing. Currently, I am investigating short-term semantic change in online communities.
+Hello! I am a third-year Computer Science PhD student at [Cornell University](https://www.cs.cornell.edu/) advised by Prof. [Lillian Lee](https://www.cs.cornell.edu/home/llee/). My research interests are at the intersection of NLP and Social Computing. Currently, I am investigating short-term semantic change in online communities.
 
 I received my BA in Computer Science and Mathematics at [Wellesley College](https://www.wellesley.edu/), where I worked with Prof. [Eni Mustafaraj](https://cs.wellesley.edu/~eni/) as part of the [Cred Lab](https://cs.wellesley.edu/~credlab/) and studied various signals of credibility in news sources.
 
